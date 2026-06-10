@@ -1,0 +1,12 @@
+# swarm-alpha-notebooks — pinned deps for Colab reproducibility
+# Usage: !pip install -r requirements.txt (in notebook setup cell)
+
+vectorbt==0.26.2
+pandas-ta==0.3.14b1
+yfinance>=0.2.36
+fredapi>=0.5.2
+scipy>=1.11.0
+numpy>=1.24.0,<2.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.13.0

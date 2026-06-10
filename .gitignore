@@ -1,0 +1,22 @@
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# QC results (regenerated from notebooks)
+results/*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Colab temp
+*.tmp
+sample_data/
